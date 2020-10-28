@@ -1,2 +1,2 @@
 # ghost-python3
-python base image
+Just a boring Debian 3 base image with python3 for a docker
